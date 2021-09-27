@@ -1,0 +1,13 @@
+.store-container {
+  display: flex;
+}
+.book-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  flex: 70%;
+  width: 70%;
+}
+.aside-container {
+  flex: 30%;
+  width: 30%;
+}
